@@ -1,5 +1,4 @@
-{
-    
+{ 
     "category": [
         { "id": 1, "name": "home" },
         { "id": 2, "name": "car" }
