@@ -3,7 +3,6 @@
         { "id": 1, "name": "home" },
         { "id": 2, "name": "car" }
     ],
-
     
     "users": [
         { "id": 1, "name": "emerson sabindo", "age": 34, "status": true },
