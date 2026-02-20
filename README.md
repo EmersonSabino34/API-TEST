@@ -17,6 +17,7 @@
         { "id": 2, "name": "sebastião rodrigo nasciemnto", "age": 34, "status": false }
     ]
 }
+
  ```
 
 * npx json-server --port 8080 banco.json
