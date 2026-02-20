@@ -1,6 +1,5 @@
 ### Criando projeto
 
-
 * npm init -y
 
 * npm install json-server
