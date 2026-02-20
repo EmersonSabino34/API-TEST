@@ -88,6 +88,7 @@ put http://localhost:8080/users/1
     "age": 34, 
     "status": true
 }
+
 ```
 
 ### Testar endpont
